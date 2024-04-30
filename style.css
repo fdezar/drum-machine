@@ -1,13 +1,13 @@
 body {
-    background-color: #222;
-    background-image: url('/images/real-drum-machine.jpg');
-    background-size: 110%;
+    background-color: rgba(34, 34, 34, 0.1); /* Color de fondo con transparencia */
+    background-image: linear-gradient(45deg, #000, brown); /* Gradiente lineal */
     color: white;
     font-family: Arial, sans-serif;
 }
 
 .container {
     margin-top: 70px;
+    margin-bottom: 140px;
     text-align: center;
 }
 
